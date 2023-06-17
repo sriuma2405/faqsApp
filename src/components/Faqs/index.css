@@ -1,0 +1,25 @@
+.bg_container {
+  background-color: #e4e7eb;
+  height: 100vh;
+  padding: 4%;
+}
+
+.card {
+  background-color: white;
+  height: 100%;
+  text-align: center;
+  border-radius: 5px;
+  padding-top: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.b {
+  color: #cb8805;
+}
+.faq {
+  height: 80%;
+  width: 80%;
+}

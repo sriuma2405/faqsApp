@@ -1,0 +1,54 @@
+/* Write your code here. */
+/* Write your code here. */
+
+.li_qn {
+  list-style-type: none;
+  height: 70px;
+  width: 100%;
+  border: 0.5px solid black;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 10px;
+}
+.c {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.li_ans {
+  list-style-type: none;
+  height: 120px;
+  width: 100%;
+  border: 0.5px solid black;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 10px;
+}
+h1 {
+  font-size: 20px;
+}
+.btn {
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-width: 0px;
+}
+.ans {
+  text-align: start;
+}
+.anscolor {
+  color: #9aa5b1;
+}
+.hrr {
+  border: 1px solid #9aa5b1;
+}
